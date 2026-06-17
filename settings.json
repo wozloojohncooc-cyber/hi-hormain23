@@ -8,7 +8,7 @@
   "server": {
     "ip": "hormain23.aternos.me:37263",
     "port": 27586,
-    "version":"26.2",
+    "version":"1.21.11",
     "try-creative": false
   },
   "position": {
