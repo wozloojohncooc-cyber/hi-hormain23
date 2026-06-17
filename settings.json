@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hormain23.aternos.me:37263",
+    "ip": "hormain23-Lft6.aternos.me",
     
   
-    "port": 27586,
+    "port": 30568,
     "version":"1.21.11",
     "try-creative": false
   },
